@@ -14,7 +14,10 @@ Before writing software I ran engineering operations for 20+ years. I founded Pr
 | **NutriSoft** | Platform for nutrition clinics: patient app with live chat, online booking with Yappy payments, records and billing. 729 automated tests. | [nutri-soft-web](https://nutri-soft-web.vercel.app) |
 | **Modus PM** | Project management for engineering contractors: drawing takeoff with Claude vision, tender analysis, Gantt with earned value. | Pilot |
 
-Client code is private. [`atrio-ledger-sample`](https://github.com/alexisvieto/atrio-ledger-sample) is a public sample: a gap-free month-end ledger close that runs entirely inside PostgreSQL, with tests.
+Client code is private. Two public samples from Atrio, both with tests:
+
+- [`atrio-mcp-sample`](https://github.com/alexisvieto/atrio-mcp-sample): a read-only MCP server that lets an AI agent answer questions about a building. PostgreSQL Row Level Security decides what each person can see.
+- [`atrio-ledger-sample`](https://github.com/alexisvieto/atrio-ledger-sample): a gap-free month-end ledger close that runs entirely inside PostgreSQL.
 
 ### How I work
 
