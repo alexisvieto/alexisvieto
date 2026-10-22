@@ -1,4 +1,4 @@
-<a href="https://alexis-vieto-cv.vercel.app"><img src="banner.jpg" alt="Alexis Vieto · AI Engineer, Panama" width="100%"></a>
+<a href="https://alexis-vieto-cv.vercel.app"><img src="skins/banner-dark.jpg" alt="Alexis Vieto · AI Engineer, Panama" width="100%"></a>
 
 I design, build and deploy AI systems inside real operations: agents, integrations and the software around them.
 
@@ -26,7 +26,10 @@ Client code is private. Three public samples, all with tests:
 - **Rules live in the database.** I use row-level security on every table, lock closed accounting periods with triggers and apply multi-tenant isolation from day one.
 - **Built with Claude Code.** I define the architecture, the data model and the security, and I review and test every change.
 
-**Stack:** TypeScript · Python · PostgreSQL / Supabase · React / Next.js · React Native (Expo) · Claude API, tool use and MCP · Vercel
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="skins/stack-dark.svg">
+  <img src="skins/stack-light.svg" alt="Stack: TypeScript, Python, PostgreSQL, Supabase, Next.js, React Native, Claude API, MCP, Vercel, Railway, Sentry">
+</picture>
 
 ### Links
 
