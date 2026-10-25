@@ -13,6 +13,9 @@ Before writing software I ran engineering operations for 20+ years. I founded Pr
 | **NexGuard360** | ERP for private security companies: QR and GPS check-ins, live fleet tracking, payroll and daily client reports. | [nexguard360.com](https://www.nexguard360.com) |
 | **NutriSoft** | Platform for nutrition clinics: patient app with live chat, online booking with Yappy payments, records and billing. 729 automated tests. | [nutri-soft-web](https://nutri-soft-web.vercel.app) |
 | **Modus PM** | Project management for engineering contractors: drawing takeoff with Claude vision, tender analysis, Gantt with earned value. | Pilot |
+| **Postea** | Social media content without editing skills: a team of Claude agents produces the video, carousel or post, and the person approves each step. | [posteafacil.net](https://www.posteafacil.net) |
+| **Civil Core** | SaaS for construction firms: bid analysis with citations, APU budgets, site reports that work offline, scheduling and costs. | [civilcoreai.com](https://www.civilcoreai.com) |
+| **Veridian** | Internal fraud detection: rules over ERP data raise signals, an AI agent drafts each case without seeing names, and an analyst signs the report. | [veridianforensics.net](https://www.veridianforensics.net) |
 
 Client code is private. Three public samples, all with tests:
 
@@ -44,7 +47,7 @@ Diseño, construyo y despliego sistemas con IA dentro de operaciones reales: age
 
 Antes de escribir software dirigí operaciones de ingeniería por más de 20 años. Fundé Proytel con 500 dólares y la llevé a facturar 2.5 millones, con más de 40 personas, ISO 9001 y más de 300 proyectos entregados. Hoy soy fundador de **Nexera**, una empresa de SaaS en Panamá. Construyo productos para operaciones que todavía viven en Excel y automatización con IA para clientes.
 
-Mis productos son **tino** (selección de personal), **Atrio** (propiedad horizontal), **NexGuard360** (seguridad privada), **NutriSoft** (clínicas de nutrición) y **Modus PM** (proyectos de ingeniería). Los agentes leen, extraen y redactan, y una persona aprueba. Las reglas de negocio y la seguridad viven en la base de datos.
+Mis productos son **tino** (selección de personal), **Atrio** (propiedad horizontal), **NexGuard360** (seguridad privada), **NutriSoft** (clínicas de nutrición), **Modus PM** (proyectos de ingeniería), **Postea** (contenido para redes), **Civil Core** (construcción) y **Veridian** (detección de fraude interno). Los agentes leen, extraen y redactan, y una persona aprueba. Las reglas de negocio y la seguridad viven en la base de datos.
 
 [Portafolio para reclutadores](https://alexis-vieto-cv.vercel.app) · [Servicios](https://alexis-vieto.vercel.app) · [LinkedIn](https://www.linkedin.com/in/alexis-vieto)
 
